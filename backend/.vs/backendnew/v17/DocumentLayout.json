@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\dotnetSignup\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|c:\\project\\dotnetsignup\\backend\\backendnew\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|solutionrelative:backendnew\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|C:\\project\\dotnetSignup\\backend\\backendnew\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|solutionrelative:backendnew\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|C:\\project\\dotnetSignup\\backend\\backendnew\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|solutionrelative:backendnew\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|C:\\project\\dotnetSignup\\backend\\backendnew\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B1ED77F1-9146-4EE1-9086-32E0D828818F}|backendnew\\backendnew.csproj|solutionrelative:backendnew\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\project\\dotnetSignup\\backend\\backendnew\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "backendnew\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\project\\dotnetSignup\\backend\\backendnew\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "backendnew\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:58:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\project\\dotnetSignup\\backend\\backendnew\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backendnew\\Models\\User.cs",
+              "ToolTip": "C:\\project\\dotnetSignup\\backend\\backendnew\\Models\\User.cs",
+              "RelativeToolTip": "backendnew\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T03:56:43.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\project\\dotnetSignup\\backend\\backendnew\\Web.config",
+              "RelativeDocumentMoniker": "backendnew\\Web.config",
+              "ToolTip": "C:\\project\\dotnetSignup\\backend\\backendnew\\Web.config",
+              "RelativeToolTip": "backendnew\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vw0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-03T02:58:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\project\\dotnetSignup\\backend\\backendnew\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "backendnew\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\project\\dotnetSignup\\backend\\backendnew\\Controllers\\TestController.cs",
+              "RelativeToolTip": "backendnew\\Controllers\\TestController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAxwBwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:59:26.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
